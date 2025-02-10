@@ -7,9 +7,7 @@
 
 - 🔭 I’m currently working on **Aheeva Technology Inc.**
 
-- 🌱 I’m currently learning **🌱 Currently learning: Docker, Kubernetes, Terraform for Infrastructure as Code (IaC) and AWS.**
-
-- 👯 I’m looking to collaborate on **Call Center Software Solutions**
+- 🌱 I’m currently learning **Docker, Kubernetes, Terraform for Infrastructure as Code (IaC) and AWS.**
 
 - 🤝 I’m looking for help with **DevOps**
 

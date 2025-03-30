@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning Automation technologies in details with cloud technologies like **Docker, Kubernetes, Terraform for Infrastructure as Code (IaC) and AWS.**
 
-- 🤝 I’m looking for help with **Automate anyh=thing**
+- 🤝 I’m looking for help with **Automate anything**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/jkabirm/](https://www.linkedin.com/in/jkabirm/)
 

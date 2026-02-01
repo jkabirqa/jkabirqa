@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/jkabirm/](https://www.linkedin.com/in/jkabirm/)
 
-- ⚡ Fun fact **I love to automate mundane tasks and am always looking for ways to improve processes. When I'm not coding, you can find me [your hobby or interest].**
+- ⚡ Fun fact **I love to automate mundane tasks and am always looking for ways to improve processes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

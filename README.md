@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jahangir Kabir</h1>
-<h3 align="center">I'm a passionate software professional Quality Assurance (QA) With a strong foundation in testing and a keen eye for detail, I'm excited to leverage my skills in automation, CI/CD pipelines, and cloud technologies to enhance software delivery and reliability.</h3>
+<h3 align="center">I'm a DevOps Engineer with a strong foundation in testing and a keen eye for detail. I'm excited to leverage my skills in automation, CI/CD pipelines, and cloud technologies to enhance software delivery and reliability.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jkabirm&label=Profile%20views&color=0e75b6&style=flat" alt="jkabirm" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Aheeva Technology Inc.**
 
-- 🌱 I’m currently learning Automation technologies in details with cloud technologies like **Docker, Kubernetes, Terraform for Infrastructure as Code (IaC) and AWS.**
+- 🌱 I’m currently learning and improving Automation technologies in detail with cloud technologies like **Docker, Kubernetes, Terraform for Infrastructure as Code (IaC) and AWS.**
 
 - 🤝 I’m looking for help with **Automate anything**
 

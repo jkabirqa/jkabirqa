@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jahangir Kabir</h1>
-<h3 align="center">I'm a DevOps Engineer with a strong foundation in testing and a keen eye for detail. I'm excited to leverage my skills in automation, CI/CD pipelines, and cloud technologies to enhance software delivery and reliability.</h3>
+<h3 align="center">DevOps Engineer with a background in QA automation, specializing in CI/CD pipeline development, infrastructure as code, and cloud deployments. Experienced in building Jenkins pipelines, containerizing applications with Docker, and supporting cloud environments to streamline release cycles and improve system reliability.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jkabirm&label=Profile%20views&color=0e75b6&style=flat" alt="jkabirm" /> </p>
 
